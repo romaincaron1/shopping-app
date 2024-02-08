@@ -1,0 +1,5 @@
+com/romaincaron/inventoryservice/service/InventoryService.class
+com/romaincaron/inventoryservice/controller/InventoryController.class
+com/romaincaron/inventoryservice/InventoryServiceApplication.class
+com/romaincaron/inventoryservice/repository/InventoryRepository.class
+com/romaincaron/inventoryservice/model/Inventory.class

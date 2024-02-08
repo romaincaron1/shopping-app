@@ -1,0 +1,10 @@
+com/romaincaron/productservice/dto/ProductResponse$ProductResponseBuilder.class
+com/romaincaron/productservice/model/Product.class
+com/romaincaron/productservice/dto/ProductRequest.class
+com/romaincaron/productservice/service/ProductService.class
+com/romaincaron/productservice/controller/ProductController.class
+com/romaincaron/productservice/dto/ProductRequest$ProductRequestBuilder.class
+com/romaincaron/productservice/ProductServiceApplication.class
+com/romaincaron/productservice/dto/ProductResponse.class
+com/romaincaron/productservice/model/Product$ProductBuilder.class
+com/romaincaron/productservice/repository/ProductRepository.class

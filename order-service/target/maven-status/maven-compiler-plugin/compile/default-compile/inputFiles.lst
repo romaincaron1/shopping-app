@@ -1,0 +1,8 @@
+/Users/romaincaron/IdeaProjects/shopping-app/order-service/src/main/java/com/romaincaron/orderservice/OrderServiceApplication.java
+/Users/romaincaron/IdeaProjects/shopping-app/order-service/src/main/java/com/romaincaron/orderservice/dto/OrderLineItemsDto.java
+/Users/romaincaron/IdeaProjects/shopping-app/order-service/src/main/java/com/romaincaron/orderservice/model/Order.java
+/Users/romaincaron/IdeaProjects/shopping-app/order-service/src/main/java/com/romaincaron/orderservice/service/OrderService.java
+/Users/romaincaron/IdeaProjects/shopping-app/order-service/src/main/java/com/romaincaron/orderservice/repository/OrderRepository.java
+/Users/romaincaron/IdeaProjects/shopping-app/order-service/src/main/java/com/romaincaron/orderservice/model/OrderLineItems.java
+/Users/romaincaron/IdeaProjects/shopping-app/order-service/src/main/java/com/romaincaron/orderservice/dto/OrderRequest.java
+/Users/romaincaron/IdeaProjects/shopping-app/order-service/src/main/java/com/romaincaron/orderservice/controller/OrderController.java

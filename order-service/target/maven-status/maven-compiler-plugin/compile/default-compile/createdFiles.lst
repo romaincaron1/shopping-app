@@ -1,0 +1,8 @@
+com/romaincaron/orderservice/dto/OrderLineItemsDto.class
+com/romaincaron/orderservice/dto/OrderRequest.class
+com/romaincaron/orderservice/service/OrderService.class
+com/romaincaron/orderservice/controller/OrderController.class
+com/romaincaron/orderservice/model/Order.class
+com/romaincaron/orderservice/model/OrderLineItems.class
+com/romaincaron/orderservice/OrderServiceApplication.class
+com/romaincaron/orderservice/repository/OrderRepository.class
